@@ -1,4 +1,4 @@
-Esse é uma aplicação de sortear numeros 
+Esse é um projeto de sortear numeros 
 
 <h1>Linguagens Aplicadas nesse projeto</h1>
 <br>
