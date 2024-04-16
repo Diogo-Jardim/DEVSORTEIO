@@ -34,7 +34,7 @@ div {
     width: 342px;
     height: 58px;
     margin-right: 62px;
-    
+    border-radius: 10px;
 }
 
 .input-e {
@@ -42,6 +42,7 @@ div {
     color: #fff;
     width: 342px;
     height: 58px;
+    border-radius: 10px;
 }
 
 input::placeholder {
