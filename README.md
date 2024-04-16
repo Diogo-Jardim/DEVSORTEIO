@@ -1,4 +1,4 @@
-<h2>Esse foi um projeto que Aprendi no <a href="https://rodolfomori.com.br/devclub"a>Dev Club para sortear números<h2><a>
+<h2>Esse foi um projeto que Aprendi no <a href="https://rodolfomori.com.br/devclub"a>Dev Club <h2><a> para sortear números
 
 <h1>Linguagens Aplicadas nesse projeto</h1>
 <br>
