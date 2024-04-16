@@ -1,4 +1,4 @@
-Esse é um projeto de sortear numeros 
+<h2>Esse foi um projeto que Aprendi no <a href="https://rodolfomori.com.br/devclub"a>Dev Club para sortear números<h2><a>
 
 <h1>Linguagens Aplicadas nesse projeto</h1>
 <br>
